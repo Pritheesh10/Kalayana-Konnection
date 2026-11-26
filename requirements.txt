@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-Migrate==4.1.0
+Flask-Limiter==3.8.0
+Flask-SQLAlchemy==3.1.1
+Flask-SocketIO==5.3.6
+Flask-WTF==1.2.1
+SQLAlchemy==2.0.47
+alembic==1.18.4
+psycopg2-binary==2.9.11
+python-dotenv==1.1.1
+requests==2.32.5
